@@ -89,5 +89,6 @@
     <img align="center" alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 </details>
 
+&nbsp;&nbsp;&nbsp;
 
-
+![snake gif](https://github.com/MichaelDouglasPIX/MichaelDouglasPIX/blob/output/github-contribution-grid-snake.gif)
