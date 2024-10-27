@@ -20,12 +20,12 @@
 &nbsp;&nbsp;&nbsp;
 
 <h3 align="center"> Hello! I'm Michael Douglas 👋 </h3>
-<h3 align="center"> Full Stack | Gamedev </h3>
+<h3 align="center"> Full Stack Developer | Game Developer </h3>
 
 &nbsp;&nbsp;&nbsp;
 
-#### <center> I currently work with the development of Chatbots, I am responsible for planning and developing conversational flows, APIs and monitoring services. </center>
-#### <center> In my free time I'm always developing games. 🎮</center>
+#### <center> I specialize in developing chatbots, focusing on planning conversational flows, APIs, and monitoring services.  In my free time, I'm passionate about game development and love creating immersive experiences. 🎮</center>
+#### <center> Feel free to check out my projects and connect with me!</center>
 
 &nbsp;&nbsp;&nbsp;
 ## **📊 Statistics:** <img align="right" src="https://komarev.com/ghpvc/?username=michaeldouglaspix&color=6A9142"><br>
@@ -61,6 +61,7 @@
     <img align="center" alt="SQLITE" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
     <img align="center" alt="ORACLE" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
     <img align="center" alt="REDIS" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
+  <img align="center" alt="REDIS" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 </details>
 
 <details>
