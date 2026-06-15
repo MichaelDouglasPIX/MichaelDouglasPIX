@@ -7,10 +7,6 @@
     <img alt="Portfólio" src="https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://michaeldouglaspix.github.io/portfolio/index.html"/></a>
     <a href="https://www.linkedin.com/in/michael-douglas-749487164/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.instagram.com/michaeldouglaspix/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-    <a href="https://twitter.com/MichaelDPIX">
-    <img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
     <a href="mailto:michaeldouglas.pix@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://steamcommunity.com/id/michaeldouglaspix" target="_blank">
