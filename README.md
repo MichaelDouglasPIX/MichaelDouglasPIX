@@ -16,7 +16,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <h3 align="center"> Hello! I'm Michael Douglas 👋 </h3>
-<h3 align="center"> Full Stack Developer | Game Developer </h3>
+<h3 align="center"> Back-End Developer | Game Developer </h3>
 
 &nbsp;&nbsp;&nbsp;
 
